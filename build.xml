@@ -1,0 +1,25 @@
+<?xml version="1.0"	encoding="UTF-8"?>
+<project basedir="." default="deploy"	name="Software-Engineering-Project">
+	
+	<target name="clean">
+		
+		</target>
+	
+	<target name="init"  depends="clean">
+	
+		</target>
+	
+	<target name="build"  depends="init">
+	
+	</target>
+	
+	<target name="package"	depends="build">
+	
+	</target>
+	
+	<target name="deploy"	depends="package">
+	
+	</target>
+	
+	
+</project>
