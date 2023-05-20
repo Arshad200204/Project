@@ -61,7 +61,7 @@ class Main {
         }
 
         System.out.println("Result: " + result);
-
+        System.out.println(" This Project is created with collabration of Muhammad Arshad Jokhio and Jawad Mustafa");
         input.close();
     }
 }
